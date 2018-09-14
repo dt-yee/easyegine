@@ -17,7 +17,7 @@ namespace E3D
         EInt id;    //unique id
         EBool lightOn; //enable or not
 
-        LIGHT_TYPE lightTpye;
+        LIGHT_TYPE lightType;
 
         EFloat power;   //light strength, default 1.0f
         EFloat shadowFactor;    //back strength, default 0.5f

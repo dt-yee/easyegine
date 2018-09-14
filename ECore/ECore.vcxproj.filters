@@ -27,9 +27,36 @@
     <ClInclude Include="ECommon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="EMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ELight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ELight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
