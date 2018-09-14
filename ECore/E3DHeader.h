@@ -6,7 +6,6 @@ namespace E3D
 
 	struct EVertex4D;		//vertex
 	struct EObject4D;		//object
-	struct EPlane3D;		//
 	struct EPoly4D;			//polygon based on vertex
 	struct EPolyF4D;		//poly
 	struct EPlane3D;		//3d plane
