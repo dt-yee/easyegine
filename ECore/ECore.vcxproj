@@ -150,6 +150,7 @@
     <ClInclude Include="E3DHeader.h" />
     <ClInclude Include="ECommon.h" />
     <ClInclude Include="ECore.h" />
+    <ClInclude Include="EGraphics.h" />
     <ClInclude Include="ELight.h" />
     <ClInclude Include="EMath.h" />
     <ClInclude Include="EMatrix.h" />
