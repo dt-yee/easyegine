@@ -73,8 +73,8 @@ namespace E3D
         static EInt getScreenHeight() { return SCREEN_HEIGHT; }
 
     private:
-        static HBITMAP      GBufferdHandle;
-        static HDC          GBufferdHDC;
+        static HBITMAP      GBufferedHandle;
+        static HDC          GBufferedHDC;
         static HBRUSH       GBgBrush;
         static HPEN         GPen;
         static HINSTANCE    GInstance;
