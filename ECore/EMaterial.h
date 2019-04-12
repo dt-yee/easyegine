@@ -29,6 +29,6 @@ namespace E3D
     extern void DestoryAllMaterials();
 
     //parse the material script, input the basic material and texture
-    //script has the same name as model
+    //script must have the same name as model
     extern void ParseMaterialScript(const EString &scriptName);
 }
